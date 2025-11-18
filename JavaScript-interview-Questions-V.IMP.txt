@@ -1,0 +1,53 @@
+	14/11/2025
+1)Q What is JavaScript ? What is the role of JavaScript engine ? 				V.Imp
+2)Q What are client side and server side ? V.Imp
+3)Q What are variables What is the difference between var, let, and const ? 	V.Imp
+4)Q What are data types in JS ? 
+5)Q What are operators What are the types of operators in JS ? 					V.Imp
+6)Q What are the types of conditions statements in JS ? 						V.Imp
+7)Q What are selectors in JS ?													V.Imp
+8)Q Difference getElementById, getElementsByClassName & getElementsByTagName? 	V.Imp
+9)Q What is DOM What is the difference between HTML and DOM ?					V.Imp
+10)Q What is loop and its Types in JS ?											V.Imp
+	15/11/2025
+11)Q What are Functions and its Types in JavaScript?							V.Imp
+12)Q What are Arrow Functions in JavaScript ?									V.Imp
+13)Q What are Arrays in JavaScript ?											V.Imp
+14)Q What are Objects in JavaScript ?											V.Imp
+15)Q What is Scope in JavaScript ?												V.Imp
+16)Q What is Hoisting in JavaScript ?											V.Imp
+17)Q What is Error Handling in JavaScript?										V.Imp
+18)Q What is Asynchronous Programming in JavaScript?							V.Imp
+19)Q What is the difference between Primitive and Non primitive data types		V.Imp
+20)Q What is the difference between null and undefined in JavaScript?
+	18/11/2025 30
+21)Q What is the use of typeof operator ?
+22)Q What is type coercion in JavaScript ?
+23)Q What is short circuit evaluation in JavaScript ?
+24)Q What is the difference between == and === in JavaScript ?					V.Imp
+25)Q What is the difference between Spread and Rest operator in JavaScript?
+26)Q What is the indexOf method of an Array ?
+27)Q What is the difference between find and filter methods of an Array?		V.Imp
+28)Q What is the slice method of an Array ?										V.Imp
+29)Q What is the difference between push and concat methods of an Array ? 		V.Imp
+30)Q What is the difference between pop and shift methods of an Array ?
+31)Q What is the splice method of an Array?										V.Imp
+32)Q What is the difference map and forEach array methods of an Array ?
+33)Q What is Array Destructuring in JavaScript ?								V.Imp
+34)Q What are array like objects In JavaScript ? 								V.Imp
+35)Q What is the difference between while and do while loops in JS ?			V.Imp
+36)Q What is the difference between break and continue statement in JS ?		V.Imp
+37)Q What is the difference between for and for…of loop in JS ?
+38)Q What is the difference between for…of and for…in loop in JS ?				V.Imp
+39)Q What is the difference between named and anonymous functions ?
+40)Q What is Higher order function In JavaScript ?
+41)What is the difference between arguments and parameters ?
+42)Q How do you use default parameters in a function ?
+43)Q What are First Class functions in JavaScript ?
+44)Q What is Function Currying in JavaScript ?
+45)Q What are call, apply and bind methods in JavaScript 						V.Imp
+46)Q What is function expression in JavaScript ?
+47)Q What are Pure and Impure functions in JavaScript ?
+48)Q What are Callback Functions? What is it use ?								V.Imp
+49)Q What are template literals and string interpolation in strings ?			V.Imp
+50)Q What is string immutability ?												V.Imp
