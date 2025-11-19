@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Q What is the difference between querySelector and querySelectorAll ?</h1>
+    <div class="myClass">Element 1</div>
+    <div class="myClass">Element 2</div>
+    <div class="myClass">Element 3</div>
+
+    <script>
+        const element = document.querySelector('.myClass');
+        // console.log(element.textContent);
+    </script>
+
+    <script>
+        const elements = document.querySelectorAll('.myClass');
+        elements.forEach(function (element) {
+            console.log(element.textContent);
+        })
+    </script>
+</body>
+
+</html>

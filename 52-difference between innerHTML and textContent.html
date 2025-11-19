@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>What is the difference between innerHTML and textContent</h1>
+    <div class="myElemet1">Hello</div>
+    <div class="myElemet2">World</div>
+
+    <script>
+        var element1 = document.getElementById('myElemet1');
+        element1.textContent = '<strong>Happy</strong>';
+        console.log(element1);
+    </script>
+</body>
+
+</html>

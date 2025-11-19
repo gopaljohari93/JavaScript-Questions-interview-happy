@@ -51,3 +51,14 @@
 48)Q What are Callback Functions? What is it use ?								V.Imp
 49)Q What are template literals and string interpolation in strings ?			V.Imp
 50)Q What is string immutability ?												V.Imp
+	19/11/2025 
+51)Q What is the difference between querySelector and querySelectorAll ?
+52)Q What is the difference between innerHTML and textContent ?					V.Imp
+53)Q What is the role of finally block in JavaScript?
+54)Q What is the purpose of the throw statement in JavaScript ?
+55)Q What is Error propagation in JavaScript ?
+56)Q What is the difference between an array and an object ?
+57)Q What is the difference between deep copy and shallow copy in JavaScript ?
+58)Q What is Set Object in JavaScript ?
+59)Q What is Map Object in JavaScript ?
+60) Q What is the difference between Map and Object in JavaScript?
