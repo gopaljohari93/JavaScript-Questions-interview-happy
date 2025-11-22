@@ -62,3 +62,48 @@
 58)Q What is Set Object in JavaScript ?
 59)Q What is Map Object in JavaScript ?
 60) Q What is the difference between Map and Object in JavaScript?
+	21/11/2025 
+61)Q What are Events How are events triggered ?									V.Imp
+62)Q What are the types of events in JavaScript ?								V.Imp
+63)Q What is Event Object in JavaScript ?
+64)Q What is Event Delegation in JavaScript ?									V.Imp
+65)Q What is Event Bubbling In JavaScript ?										V.Imp
+66)Q What is Event Capturing in JS
+67)Q What is the use of this keyword in the context of event handling?
+68)Q Explain the concept of Lexical Scoping ?									V.Imp
+69)Q What is Closure ?															V.Imp
+70)Q What are the benefits of Closures ?										V.Imp
+71)Q What is the difference between synchronous and asynchronous
+72)Q What are the techniques for achieving asynchronous operations ?
+73)Q What is setTimeout in JavaScript?											V.Imp
+74)Q What is setInterval in JavaScript?
+75)Q What are Promises in JavaScript ?											V.Imp
+76)Q When to use Promises in real applications ?
+77)Q What is the use of Promise all method ?									V.Imp
+78)Q What is the use of Promise race method ?
+79)Q What is the difference between Promise all and Promise race ?
+80)Q What is the purpose of async await Compare it with Promises ?				V.Imp
+81)Q Explain the use of async and await keywords in JavaScript?					V.Imp
+82)Q What are Browser APIs in JavaScript?										V.Imp
+83)Q What is Web Storage and its Types in JavaScript?							V.Imp
+84)Q What is Local Storage ?													V.Imp
+85)Q What is the difference between LocalStorage and SessionStorage ?			V.Imp
+86)Q What are cookies ?
+87)Q What is the difference between cookies and web storage ?
+88)Q What are Classes in JavaScript?
+89)Q What is a constructor ?
+90)Q What are constructor functions ?
+91)Q What is the use of this keyword ?
+92)Q What is ES6 ?																V.Imp	
+93)Q What is eval function in JavaScript ?		
+94)Q What is XSS attack ?	
+95)Q What is SQL Injection attack ?
+
+Top 10 HTML Interview Questions and Answers | Frontend Interview Preparation
+1)What is the role of DOCTYPE in HTML?											V.Imp	
+2)What are Meta Tags? What are the 5 types of meta tags? 
+3)What is the difference between <div> and <span> element? 
+4)What are the Semantic Elements in HTML? is div a semantic element? 			V.Imp	
+5)What are the 3 differences between Block-Level and Inline Elements? 			V.Imp	
+6)What is the 3 differences between Absolute and Relative URLs? 				V.Imp
+7)What are HTML Forms and what are its advantages? 								V.Imp		
